@@ -6,8 +6,6 @@ Bu repo [Kodluyoruz] (https://www.kodluyoruz.org) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ---
 
+<pre><code>
 git clone https://github.com/Gozdepg/kodluyoruzilkrepo.git
----
-
-<pre><code>This is a code block.
 </code></pre>
