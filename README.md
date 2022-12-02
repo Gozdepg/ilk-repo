@@ -8,3 +8,6 @@ Bu repo [Kodluyoruz] (https://www.kodluyoruz.org) Front-End Eğitiminde oluştur
 
 git clone https://github.com/Gozdepg/kodluyoruzilkrepo.git
 ---
+
+<pre><code>This is a code block.
+</code></pre>
